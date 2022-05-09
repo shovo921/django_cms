@@ -228,11 +228,11 @@ DATABASES = {
     'default': {
         'CONN_MAX_AGE': 0,
         'ENGINE': 'django.db.backends.mysql',
-        'HOST': 'localhost',
-        'NAME': 'studylity_cms',
-        'PASSWORD': '',
+        'HOST': '103.123.8.155',
+        'NAME': 'kcsl_cms',
+        'PASSWORD': 'z$PBbzFmGtR7P?*U',
         'PORT': '3306',
-        'USER': 'root'
+        'USER': 'kcslcmsuser'
     }
 }
 
